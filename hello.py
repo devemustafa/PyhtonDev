@@ -8,5 +8,3 @@ if z == 96:
     print("Dogru degil bu")
 else:
     print("Yalan soyluyorsun")
-
-
